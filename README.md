@@ -1,0 +1,1 @@
+This project was created by Aryan Bandi in January 2023. This is a tic-tac-toe game of tic-tac-toe games. Essentially, player play games in the square highlighted in yellow, and their objective is to win a three-in-a-row in the big game.
